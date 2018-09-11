@@ -6,11 +6,11 @@
 - Office : Seattle CNCT
 
 ## JOB
-- Participating in Workshop
+- Participated in Workshop
   - term : 18.6.25 ~ 18.7.6
   - task : Interview with CMP team from Korea
   - result : Understood about epic and acceptance criteria
-- Working on project in CMS (Cluster Manager Service)
+- Worked on project in CMS (Cluster Manager Service)
   - Role : Cluster Provisioning on AWS
     - Discovery of AWS Provisioner using Cloudformation
     - Create resources (VPC, Subnet, EC2, master/worker tagging) stack on AWS
@@ -35,7 +35,7 @@
   - experienced agile method in CNCT
     - standup
     - chatops with Slack
-  - learn how to use Jira
+  - learned how to use Jira
     - 1) Create Epic
     - 2) Review with team to have understanding of requirement and acceptance criteria ... Assign engineer
     - 3) Create design doc
@@ -43,7 +43,7 @@
     - 5) Breakdown
   - documentation on Confluence : https://samsung-cnct.atlassian.net/wiki/spaces/AG/pages/233406484/Discovery+of+AWS+Provisioner+using+CloudFormation
 - Git
-  - learn how to contribute on report
+  - learned how to contribute on report
   - PR (Pull Request) Process
     - 1. Fork the repo
     - 2. git clone your repo
