@@ -18,18 +18,22 @@
   - Task
     - CMS-212 : Discovery of AWS Provisioner using Cloudformation
       - result : investigated Provisioning K8s cluster services in AWS (Managed and 3rd Party services)
+      - link : https://samsung-cnct.atlassian.net/browse/CMS-212
     - CMS-290 : Create some nodes that are pre-configured with public IP and SSH       
       - result : created Cloudformation template modified from Heptio's one
+      - link : https://github.com/samsung-cnct/vanilla-cf-for-cms
     - CMS-306 : Integrate Cloud formation template in cluster repo
       - result : modified template to work with Joe's template
+      - link : https://samsung-cnct.atlassian.net/browse/CMS-306
     - CMS-304 : Create and deploy to minikube and test
       - result : Brought up a cluster to MaaS with SSH Provisioner
+      - link : https://samsung-cnct.atlassian.net/browse/CMS-304
     - CMS-315 : Document (and CI?) how to standup pacific for the first time
       - result
         - found how to bring up cluster in AWS with Joe's script
         - modified Cloudformation in order to work well with SSH provisioner
         - wrote instuction on pacific repo
-        - https://github.com/samsung-cnct/pacific.cluster.cnct.io
+        - link : https://github.com/samsung-cnct/pacific.cluster.cnct.io
 
 ## Learn From CNCT
 - Agile
