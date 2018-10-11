@@ -29,6 +29,7 @@
         - found how to bring up cluster in AWS with Joe's script
         - modified Cloudformation in order to work well with SSH provisioner
         - wrote instuction on pacific repo
+        - https://github.com/samsung-cnct/pacific.cluster.cnct.io
 
 ## Learn From CNCT
 - Agile
